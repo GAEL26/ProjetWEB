@@ -1,4 +1,5 @@
 //javascript
 function img1() {
-  alert("bonjour");
+  document.getElementById("image").src="";
+  document.getElementById("text").innerHTML="";
 }
