@@ -11,15 +11,15 @@ function Reg_img2() {
 }
 function Reg_img3() {
   document.getElementById("image").src="Images/chat.gif";  //ECRIRE ENTRE LES GUILLEMETS LE NOM DU FICHIER image
-  document.getElementById("text").innerHTML="  ";   //ECRIRE ENTRE LES GUILLEMETS LE TEXTE A AFFICHER
+  document.getElementById("text").innerHTML="<h1>Echec</h1><p>Chaque fois que vous pouvez prendre le roi de votre adversaire à votre prochain coup, vous devez le prévenir en annonçant « échec ». Il doit alors tenter de parer votre échec, lors de son tour de jeu.</p>";   //ECRIRE ENTRE LES GUILLEMETS LE TEXTE A AFFICHER
 }
 function Reg_img4() {
   document.getElementById("image").src="Images/chat.gif";  //ECRIRE ENTRE LES GUILLEMETS LE NOM DU FICHIER image
-  document.getElementById("text").innerHTML="  ";   //ECRIRE ENTRE LES GUILLEMETS LE TEXTE A AFFICHER
+  document.getElementById("text").innerHTML="<h1>Echec et mat</h1><p>S’il n’y parvient pas, son roi est alors « échec et mat ». Vous remportez donc la partie.</p>";   //ECRIRE ENTRE LES GUILLEMETS LE TEXTE A AFFICHER
 }
 function Reg_img5() {
   document.getElementById("image").src="Images/chat.gif";  //ECRIRE ENTRE LES GUILLEMETS LE NOM DU FICHIER image
-  document.getElementById("text").innerHTML="  ";   //ECRIRE ENTRE LES GUILLEMETS LE TEXTE A AFFICHER
+  document.getElementById("text").innerHTML="<h1>Pat</h1><p>Une partie d’échecs peut également se terminer sur un match nul. Si lors du tour d’un joueur, celui-ci ne peut déplacer aucune de ses pièces et que son roi n’est pas en échec. On dit alors que la partie se termine par un « pat ».</p>";   //ECRIRE ENTRE LES GUILLEMETS LE TEXTE A AFFICHER
 }
 
 // JAVASCRIPT POUR LA PAGE DEPLACEMENT DES PIECES
