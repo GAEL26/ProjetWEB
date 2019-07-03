@@ -23,7 +23,7 @@ nav {
     height:10%;
     background-color:white;
     }
-menu {
+.menu {
     position: absolute;
     top: 20%;
     left: 0px;
@@ -32,7 +32,7 @@ menu {
     background-color:red;
     }
 
-menu:hover {
+.menu:hover {
   background-color: purple;
 }
 
