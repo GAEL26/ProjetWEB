@@ -2,14 +2,14 @@ body {
   background-image: url("Images/background.jpg");
   background-size: cover;
   color: white;
-  font-family: 'arber';
+  font-family: 'Arber Vintage Free';
   font-size: large;
 
 }
 @font-face {
-    font-family: 'arber';
+    font-family: 'Arber Vintage Free';
     src: url('font/arber.otf') format('otf'),
-         url('font/arber.woff') format('woff'),
+        
 }
 
 header {
@@ -19,7 +19,8 @@ header {
     width:100%;
     height:10%;
     text-align: center;
-    background-color:hotpink;
+    vertical-align: middle;
+    font-size: xx-large; 
 }
 
 #nav {
@@ -31,7 +32,6 @@ header {
     height:8%;
     margin: 0;
     text-align: center;
-    font-family: fantasy;
     font-size:30px ;
 }
 
@@ -53,27 +53,29 @@ header {
 }  
 .menu {
     position: absolute;
+    
+    
     top: 20%;
     left: 0px;
     width:100%;
     height:10%;
-    background-color:red;
+    
     }
     
 .menu img{
-    margin:auto;
-    height: 60%
+    text-align: center;
+    margin-left:10%;
+    margin-top: 1%;
+    
+    vertical-align: middle;
+    height: 60%;
     
 }
 
-.menu img :hover{
-    height: 80%
+.menu img:hover{
+    height: 80%;
+    box-shadow: 10px 5px 5px red;
 }
-
-.menu:hover {
-    background-color: purple;
-}
-
 
 
 article {
@@ -82,7 +84,6 @@ article {
     left: 0px;
     width:100%;
     height:60%;
-    background-color:aquamarine;
     }
 
 
@@ -91,15 +92,14 @@ article #text {
   top:10%;
   left: 10%;
   right: 50%;
-  background-color: green;
   overflow:auto;
+  bacckground-color: rgba(150,150,150,0.5)
 }
 article aside {
   position: absolute;
   top:10%;
   left: 60%;
   right: 10%;
-  background-color: blue;
 }
 
 
