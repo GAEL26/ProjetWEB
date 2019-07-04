@@ -2,10 +2,16 @@ body {
   background-image: url("Images/background.jpg");
   background-size: cover;
   color: white;
-  font-family: monospace;
+  font-family: 'arber';
   font-size: large;
 
 }
+@font-face {
+    font-family: 'arber';
+    src: url('font/arber.otf') format('otf'),
+         url('font/arber.woff') format('woff'),
+}
+
 header {
     position: absolute;
     top: 0px;
