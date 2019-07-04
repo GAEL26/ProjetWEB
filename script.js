@@ -34,18 +34,18 @@ function Dep_img2() {
 }
 function Dep_img3() {
   document.getElementById("image").src="Images/deplacement-Fou.jpg";   //ECRIRE ENTRE LES GUILLEMETS LE NOM DU FICHIER image
-  document.getElementById("text").innerHTML="toto";   //ECRIRE ENTRE LES GUILLEMETS LE TEXTE A AFFICHER
+  document.getElementById("text").innerHTML=" Le Fou se déplace en diagonale, sur la diagonale de la couleur de sa case d'origine.</br>Il peut se déplacer et prendre en arrière.</br> Il ne peut pas sauter une autre pièce ou pion.";   //ECRIRE ENTRE LES GUILLEMETS LE TEXTE A AFFICHER
 }
 function Dep_img4() {
   document.getElementById("image").src="Images/deplacement-tour.png";   //ECRIRE ENTRE LES GUILLEMETS LE NOM DU FICHIER image
   document.getElementById("text").innerHTML="toto";   //ECRIRE ENTRE LES GUILLEMETS LE TEXTE A AFFICHER
 }
 function Dep_img5() {
-  document.getElementById("image").src="Images/deplacement-roi.jpg";   //ECRIRE ENTRE LES GUILLEMETS LE NOM DU FICHIER image
+  document.getElementById("image").src="Images/deplacement-reine.jpg";   //ECRIRE ENTRE LES GUILLEMETS LE NOM DU FICHIER image
   document.getElementById("text").innerHTML="toto";   //ECRIRE ENTRE LES GUILLEMETS LE TEXTE A AFFICHER
 }
 function Dep_img6() {
-  document.getElementById("image").src="Images/deplacement-reine.jpg";   //ECRIRE ENTRE LES GUILLEMETS LE NOM DU FICHIER image
+  document.getElementById("image").src="Images/deplacement-roi.jpg";   //ECRIRE ENTRE LES GUILLEMETS LE NOM DU FICHIER image
   document.getElementById("text").innerHTML="toto";   //ECRIRE ENTRE LES GUILLEMETS LE TEXTE A AFFICHER
 }
 
