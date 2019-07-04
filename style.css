@@ -8,7 +8,7 @@ body {
 }
 @font-face {
     font-family: 'Arber Vintage Free';
-    src: url('font/arber.otf') format('otf'),
+    src: url('font/arber.woff') ;
         
 }
 
