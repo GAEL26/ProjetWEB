@@ -19,7 +19,7 @@ function Reg_img4() {
 }
 function Reg_img5() {
   document.getElementById("image").src="Images/Kasparov-topalov1999.gif";  //ECRIRE ENTRE LES GUILLEMETS LE NOM DU FICHIER image
-  document.getElementById("text").innerHTML="<h1>Pat</h1><p>Une partie d’échecs peut également se terminer sur un match nul. Si lors du tour d’un joueur, celui-ci ne peut déplacer aucune de ses pièces et que son roi n’est pas en échec. On dit alors que la partie se termine par un « pat<:br>Ci-contre partie légendaire 1999 Garry Kasparov (en blanc) contre Veselin Topalov».</p>";   //ECRIRE ENTRE LES GUILLEMETS LE TEXTE A AFFICHER
+  document.getElementById("text").innerHTML="<h1>Pat</h1><p>Une partie d’échecs peut également se terminer sur un match nul. Si lors du tour d’un joueur, celui-ci ne peut déplacer aucune de ses pièces et que son roi n’est pas en échec. On dit alors que la partie se termine par un « pat<:br>Ci-contre partie légendaire en 1999 Garry Kasparov (en blanc) contre Veselin Topalov».</p>";   //ECRIRE ENTRE LES GUILLEMETS LE TEXTE A AFFICHER
 }
 
 // JAVASCRIPT POUR LA PAGE DEPLACEMENT DES PIECES
