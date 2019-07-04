@@ -92,7 +92,7 @@ article #text {
   top:10%;
   left: 10%;
   right: 50%;
-  overflow:auto;
+  overflow: scroll;
   font-size: x-large;
   background-color: rgba(30,30,30,0.7);
 }
