@@ -3,7 +3,7 @@ body {
   background-size: cover;
   color: white;
   font-family: 'Arber Vintage Free';
-  font-size: large;
+  font-size: xx-large;
 
 }
 @font-face {
@@ -20,7 +20,7 @@ header {
     height:10%;
     text-align: center;
     vertical-align: middle;
-    font-size: xx-large; 
+    font-size: 50px; 
 }
 
 #nav {
