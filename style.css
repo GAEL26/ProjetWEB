@@ -80,6 +80,7 @@ article #text {
   left: 10%;
   right: 50%;
   background-color: green;
+  overflow:auto;
 }
 article aside {
   position: absolute;
