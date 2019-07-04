@@ -31,7 +31,8 @@ function Dep_img1() {
 }
 function Dep_img2() {
   document.getElementById("image").src="Images/deplacement-cavalier.jpg";   //ECRIRE ENTRE LES GUILLEMETS LE NOM DU FICHIER image
-  document.getElementById("text").innerHTML="toto";   //ECRIRE ENTRE LES GUILLEMETS LE TEXTE A AFFICHER
+  document.getElementById("text").innerHTML=" Le Cavalier se déplace en faisant un pas de Tour et un pas de Fou en s'éloignant de sa case de départ.</br> Il fait un  L  imaginaire de 3 cases; 2 cases devant, derrière, gauche, droite, puis 1 case de côté;</br> ou 1 case devant, derrière, gauche, droite, puis 2 case de côté.)</br>Il peut se déplacer et prendre en arrière.</br>C'est la seule pièce de l'échiquier, qui peut sauter une autre pièce ou pion.
+ ";   //ECRIRE ENTRE LES GUILLEMETS LE TEXTE A AFFICHER
 }
 function Dep_img3() {
   document.getElementById("image").src="Images/deplacement-Fou.jpg";   //ECRIRE ENTRE LES GUILLEMETS LE NOM DU FICHIER image
