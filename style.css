@@ -93,7 +93,7 @@ article #text {
   left: 10%;
   right: 50%;
   overflow:auto;
-  bacckground-color: rgba(150,150,150,0.5)
+  background-color: rgba(30,30,30,0.7);
 }
 article aside {
   position: absolute;
@@ -105,11 +105,13 @@ article aside {
 
 footer {
     position: absolute;
-    top: 90%;
-    padding-top: 30px;
-    left: 0px;
-    width:100%;
-    height:10%;
+    top: 93%;
+    padding-top: 5px;
+    left: 70%;
+    width:30%;
+    height:5%;
     text-align: right;
     bottom: 10px;
+    background-color: rgba(30,30,30,0.7);
 }
+
