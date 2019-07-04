@@ -46,6 +46,6 @@ function Dep_img5() {
 }
 function Dep_img6() {
   document.getElementById("image").src="Images/deplacement-roi.jpg";   //ECRIRE ENTRE LES GUILLEMETS LE NOM DU FICHIER image
-  document.getElementById("text").innerHTML="toto";   //ECRIRE ENTRE LES GUILLEMETS LE TEXTE A AFFICHER
+  document.getElementById("text").innerHTML=" Le Roi se déplace comme la Tour et comme le Fou, mais d'une seule case à la fois.</br>Il peut se déplacer et prendre en arrière.</br>Pour prendre, il doit être au contact du pion ou de la pièce.</br>Le Roi ne peut pas prendre le Roi adverse, et il doit y avoir au minimum une case entre les deux Rois.</br>Le Roi ne peut pas se rendre sur une case, ou il se mettrait de lui même en échecs.";   //ECRIRE ENTRE LES GUILLEMETS LE TEXTE A AFFICHER
 }
 
