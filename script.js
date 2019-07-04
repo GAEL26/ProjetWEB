@@ -28,3 +28,19 @@ function Dep_img1() {
   document.getElementById("image").src="Images/deplacement-pion.jpg";   //ECRIRE ENTRE LES GUILLEMETS LE NOM DU FICHIER image
   document.getElementById("text").innerHTML="toto";   //ECRIRE ENTRE LES GUILLEMETS LE TEXTE A AFFICHER
 }
+function Dep_img2() {
+  document.getElementById("image").src="Images/deplacement-pion.jpg";   //ECRIRE ENTRE LES GUILLEMETS LE NOM DU FICHIER image
+  document.getElementById("text").innerHTML="toto";   //ECRIRE ENTRE LES GUILLEMETS LE TEXTE A AFFICHER
+}
+function Dep_img3() {
+  document.getElementById("image").src="Images/deplacement-fou.jpg";   //ECRIRE ENTRE LES GUILLEMETS LE NOM DU FICHIER image
+  document.getElementById("text").innerHTML="toto";   //ECRIRE ENTRE LES GUILLEMETS LE TEXTE A AFFICHER
+}
+function Dep_img4() {
+  document.getElementById("image").src="Images/deplacement-pion.jpg";   //ECRIRE ENTRE LES GUILLEMETS LE NOM DU FICHIER image
+  document.getElementById("text").innerHTML="toto";   //ECRIRE ENTRE LES GUILLEMETS LE TEXTE A AFFICHER
+}
+function Dep_img5() {
+  document.getElementById("image").src="Images/deplacement-pion.jpg";   //ECRIRE ENTRE LES GUILLEMETS LE NOM DU FICHIER image
+  document.getElementById("text").innerHTML="toto";   //ECRIRE ENTRE LES GUILLEMETS LE TEXTE A AFFICHER
+}
