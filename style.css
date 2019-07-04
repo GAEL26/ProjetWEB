@@ -48,7 +48,7 @@ header {
 }
 #nav a:hover {
     font-size:35px;
-    box-shadow: 10px 5px 5px red;
+    box-shadow: 10px 5px 5px white;
     
 }  
 .menu {
@@ -74,7 +74,7 @@ header {
 
 .menu img:hover{
     height: 80%;
-    box-shadow: 10px 5px 5px red;
+    box-shadow: 10px 5px 5px white;
 }
 
 
@@ -93,6 +93,7 @@ article #text {
   left: 10%;
   right: 50%;
   overflow:auto;
+  font-size: x-large;
   background-color: rgba(30,30,30,0.7);
 }
 article aside {
