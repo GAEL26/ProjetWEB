@@ -26,7 +26,8 @@ function Reg_img5() {
 
 function Dep_img1() {
   document.getElementById("image").src="Images/deplacement-pion.jpg";   //ECRIRE ENTRE LES GUILLEMETS LE NOM DU FICHIER image
-  document.getElementById("text").innerHTML="toto";   //ECRIRE ENTRE LES GUILLEMETS LE TEXTE A AFFICHER
+  document.getElementById("text").innerHTML="Le pion  se déplace en avant sur une case inoccupée en face de lui.</br> A son premier coup, il peut avancer de 2 cases sur la même colonne </br> à condition qu'elle soit inoccupée, puis il avance d'une case.</br> Il ne peut pas prendre la pièce ou le pion qui se trouve face à lui </br> sur la même colonne, mais il prend en diagonale. </br>Il ne recule jamais, et il ne prend pas en arrière.
+ ";   //ECRIRE ENTRE LES GUILLEMETS LE TEXTE A AFFICHER
 }
 function Dep_img2() {
   document.getElementById("image").src="Images/deplacement-cavalier.jpg";   //ECRIRE ENTRE LES GUILLEMETS LE NOM DU FICHIER image
